@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-drive-clone/static/css/main.cbb35b98.chunk.css",
+    "main.js": "/google-drive-clone/static/js/main.b65e026f.chunk.js",
+    "main.js.map": "/google-drive-clone/static/js/main.b65e026f.chunk.js.map",
+    "runtime-main.js": "/google-drive-clone/static/js/runtime-main.42adfba7.js",
+    "runtime-main.js.map": "/google-drive-clone/static/js/runtime-main.42adfba7.js.map",
+    "static/js/2.7faa5abb.chunk.js": "/google-drive-clone/static/js/2.7faa5abb.chunk.js",
+    "static/js/2.7faa5abb.chunk.js.map": "/google-drive-clone/static/js/2.7faa5abb.chunk.js.map",
+    "static/js/3.1892004d.chunk.js": "/google-drive-clone/static/js/3.1892004d.chunk.js",
+    "static/js/3.1892004d.chunk.js.map": "/google-drive-clone/static/js/3.1892004d.chunk.js.map",
+    "index.html": "/google-drive-clone/index.html",
+    "static/css/main.cbb35b98.chunk.css.map": "/google-drive-clone/static/css/main.cbb35b98.chunk.css.map",
+    "static/js/2.7faa5abb.chunk.js.LICENSE.txt": "/google-drive-clone/static/js/2.7faa5abb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42adfba7.js",
+    "static/js/2.7faa5abb.chunk.js",
+    "static/css/main.cbb35b98.chunk.css",
+    "static/js/main.b65e026f.chunk.js"
+  ]
+}
